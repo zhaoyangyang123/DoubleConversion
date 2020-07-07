@@ -1,0 +1,6 @@
+framework module Pods_DoubleConversion_Example {
+  umbrella header "Pods-DoubleConversion_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

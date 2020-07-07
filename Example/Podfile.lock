@@ -1,0 +1,16 @@
+PODS:
+  - DoubleConversion (0.1.0)
+
+DEPENDENCIES:
+  - DoubleConversion (from `../`)
+
+EXTERNAL SOURCES:
+  DoubleConversion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DoubleConversion: b596ba4c9cd6eb43984ca232ab9e53f40ba3ffb1
+
+PODFILE CHECKSUM: 1e7ee391713e71ee95b7cff11da04395c942e737
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DoubleConversion_Example' do
+  pod 'DoubleConversion', :path => '../'
+
+  target 'DoubleConversion_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
